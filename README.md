@@ -1,3 +1,3 @@
-Games I made during my free time:
-- Dungeon: Roguelike RPG game
+# Games
+- Dungeon: Roguelike RPG game (2023 Spring, Data Structure and OOP Midterm Project)
 - Classic 2048
